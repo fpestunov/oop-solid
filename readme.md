@@ -15,3 +15,9 @@
 - [Animal](01-SRP/Animal/readme.md)
 - [Order - работа с заказом](01-SRP/Order/readme.md)
 - [Order2 - работа с заказом](01-SRP/Order2/readme.md)
+
+## 02. O – Open Closed Principle
+
+Entities should be open for extension, but closed for modification.
+
+- [Shapes](02-OCP/Shapes/readme.md)
