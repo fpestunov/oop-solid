@@ -21,3 +21,4 @@
 Entities should be open for extension, but closed for modification.
 
 - [Shapes](02-OCP/Shapes/readme.md)
+- [Shop Checkout](02-OCP/Checkout/readme.md)
