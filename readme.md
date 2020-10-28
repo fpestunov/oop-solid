@@ -22,9 +22,27 @@
 
 Entities should be open for extension, but closed for modification.
 
+> [Open chest surgery is not needed when putting on a coat.](02-OCP/02.jpg)
+
 - [Shapes](02-OCP/Shapes/readme.md)
 - [Shop Checkout](02-OCP/Checkout/readme.md)
 
 ## 03. L – Liskov Sustitution Principle
 
+Классы-наследники не должны противоречить базовому классу. Например, они не могут предоставлять интерфейс уже базового. Поведение наследников должно быть ожидаемым для функций, которые используют базовый класс.
+
+> [If it looks like a duck, quacks like a duck, but needs batteries – you probably have the wrong abstraction](03-LSP/03.jpg)
+
 - [Lesson](03-LSP/Lesson/index.php)
+- [Car rent service](03-LSP/CarRent/readme.md)
+
+## 04. I – Interface Segregation Principle
+
+> [You want me to plug this in, where?](04-ISP/04.jpg)
+
+## 05. D – Dependency Inversion Principle
+
+> [Would you solder a lamp directly to the electrical wiring in a wall?](05-DIP/05.jpg)
+
+Дополнительная литература:
+- https://ota-solid.now.sh/
