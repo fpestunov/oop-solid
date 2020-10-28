@@ -51,6 +51,7 @@ ISP можно представлять как SRP для интерфейсов
 Если мы применяем ISP, получаем больше интерфейсов с меньшим количеством методов в каждом.
 
 - [Programmer](04-ISP/Programmer/readme.md)
+- [SendReminder](04-ISP/SendReminder/readme.md)
 
 ## 05. D – Dependency Inversion Principle
 
