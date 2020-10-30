@@ -57,5 +57,10 @@ ISP можно представлять как SRP для интерфейсов
 
 > [Would you solder a lamp directly to the electrical wiring in a wall?](05-DIP/05.jpg)
 
+Depend on abstractions, not on concretions.
+Dependency Inversion does not equal Dependency Injection.
+
 Дополнительная литература:
+- http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod
+- http://blog.muradovm.com/2012/03/solid.html (с примерами)
 - https://ota-solid.now.sh/
